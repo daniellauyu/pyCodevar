@@ -1,2 +1,1 @@
-# pyCodevar
-Variable Names,python version
+Variable Names
